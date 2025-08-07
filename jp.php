@@ -1,6 +1,6 @@
 <HTML>
     <HEAD>
-        <meta charset="UTF-8" http-equiv="refresh" content="0; url=https://amjp.psy-k.org/JPLY/jp.php">
+        <meta charset="UTF-8">
         <title>JPLY Games</title>
         <style>
             a:link {color:rgb(255, 255, 0);}      /* unvisited link */
@@ -9,14 +9,22 @@
             a:active {color:rgb(255, 255, 0);}  /* selected link */
             h1:any-link {color:rgb(255, 255, 0);}
             h2:any-link {color:rgb(255, 255, 0);}
-        </style>   
+            body {
+                cursor: url('img/spaceship-cursor.png'), auto;
+            }
+            <?php include("./marquee/marqueeCSS.php") ?>
+            </style>   
     </HEAD>
 <BODY style="background-color:navy;">
     <font color=#66FF00>
         <center><img src=img/under_construction_icon.png width=32 height=32>このサイトは開発中です。<img src=img/under_construction_icon.png width=32 height=32></center>
-        <center><h1><font color=#FFEA00><img src="img/JPLYlogo.png">ゲーム</h1></font></center>
+        <?php include("./marquee/marqueeDisplay.php") ?>
+        <BR>
+        <center>
+        <?php include("visitor-counter.php") ?>
+        </center>
         <center><h1>s-found2 app store α</h1></center>
-        <center><a href=https://amjp.psy-k.org/s-found2/s-found2-en.html><img src=https://amjp.psy-k.org/s-found2/images/s-foudn2-screenshot600x300.jpeg></a></center>
+        <center><a href=https://amjp.psy-k.org/s-found2/s-found2-en.html><img src=https://amjp.psy-k.org/s-found2/images/s-found2-icon.png width=250 height=170></a></center>
         <center><h2>アンドロイドにアプリを乗せるのに一番簡単な方法。（今のところ英語のみ）</h2></center>
         <BR>        
         <center><h1>Otherworld Frontier β</h1></center>

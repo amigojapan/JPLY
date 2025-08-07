@@ -1,6 +1,6 @@
 <HTML>
     <HEAD>
-        <meta charset="UTF-8" http-equiv="refresh" content="0; url=https://amjp.psy-k.org/JPLY/en.php">
+        <meta charset="UTF-8">
         <title>JPLY Games</title>
         <style>
             a:link {color:rgb(255, 255, 0);}      /* unvisited link */
@@ -12,21 +12,19 @@
             body {
                 cursor: url('img/spaceship-cursor.png'), auto;
             }
-        </style>   
+            <?php include("./marquee/marqueeCSS.php") ?>
+            </style>   
     </HEAD>
 <BODY style="background-color:navy;">
     <font color=#66FF00>
         <center><img src=img/under_construction_icon.png width=32 height=32>Site under construction.<img src=img/under_construction_icon.png width=32 height=32></center>
-        <center><h1><font color=#FFEA00><img src="img/JPLYlogo.png"> Games</h1></font></center>
+        <?php include("./marquee/marqueeDisplay.php") ?>
         <BR>
         <center>
-        visitor count:
-<!-- Start Bravenet.com Service Code -->
-<script type="text/javascript" src="https://pub14.bravenet.com/counter/code.php?id=409073&usernum=1159594127&cpv=3"></script>
-<!-- End Bravenet.com Service Code -->
+        <?php include("visitor-counter.php") ?>
         </center>
         <center><h1>s-found2 app store α</h1></center>
-        <center><a href=https://amjp.psy-k.org/s-found2/s-found2-en.html><img src=https://amjp.psy-k.org/s-found2/images/s-foudn2-screenshot600x300.jpeg></a></center>
+        <center><a href=https://amjp.psy-k.org/s-found2/s-found2-en.html><img src=https://amjp.psy-k.org/s-found2/images/s-found2-icon.png width=250 height=170></a></center>
         <center><h2>The easiest way to put games on Android.</h2></center>
         <BR>        
         <center><h1>Otherworld Frontier β</h1></center>
