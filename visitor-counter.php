@@ -45,20 +45,20 @@
   <?php 
     if($pagename == "https://amjp.psy-k.org/JPLY/en.php") {
     ?>    
-        <div style="display: inline;">Visitor count:</div><div style="border: 2px solid yellow; width: 100px; display: inline; color:yellow"> <?php echo $visitors; ?></div><div style="display: inline;">.</div>
-        <div style="display: inline;">This page has been clicked</div><div style="border: 2px solid yellow; width: 100px; display: inline; color:yellow"> <?php echo $totalvisit; ?> </div><div style="display: inline;"> times.</div>
+        <div style="display: inline;">Visitor count:</div><div style="border: 2px solid yellow; width: 100px; display: inline; color:yellow"> <?php echo $visitors; ?> </div><div style="display: inline;">.</div>
+        <div style="display: inline;">This page has been clicked</div><div style="border: 2px solid yellow; width: 100px; display: inline; color:yellow"> <?php echo $totalvisit; ?> </div><div style="display: inline;"> times. Since August 7, 2025.</div>
     <?php
     } 
     if($pagename == "https://amjp.psy-k.org/JPLY/jp.php") {
     ?>    
-        <div style="display: inline;">尋ね人:</div><div style="border: 2px solid yellow; width: 100px; display: inline; color:yellow"> <?php echo $visitors; ?></div><div style="display: inline;">人。</div>
-        <div style="display: inline;">クリック数</div><div style="border: 2px solid yellow; width: 100px; display: inline; color:yellow"> <?php echo $totalvisit; ?> </div><div style="display: inline;"> 回。</div>
+        <div style="display: inline;">尋ね人:</div><div style="border: 2px solid yellow; width: 100px; display: inline; color:yellow"> <?php echo $visitors; ?> </div><div style="display: inline;">人。</div>
+        <div style="display: inline;">クリック数</div><div style="border: 2px solid yellow; width: 100px; display: inline; color:yellow"> <?php echo $totalvisit; ?> </div><div style="display: inline;"> 回。２０２５年８月７日から。</div>
     <?php 
     }
     if($pagename == "https://amjp.psy-k.org/JPLY/es.php") {
     ?>    
-        <div style="display: inline;">Visitantes:</div><div style="border: 2px solid yellow; width: 100px; display: inline; color:yellow"> <?php echo $visitors; ?></div><div style="display: inline;"> personas.</div>
-        <div style="display: inline;">Numero de clicks:</div><div style="border: 2px solid yellow; width: 100px; display: inline; color:yellow"> <?php echo $totalvisit; ?> </div><div style="display: inline;"> veces.</div>
+        <div style="display: inline;">Visitantes:</div><div style="border: 2px solid yellow; width: 100px; display: inline; color:yellow"> <?php echo $visitors; ?> </div><div style="display: inline;"> personas.</div>
+        <div style="display: inline;">Numero de clicks:</div><div style="border: 2px solid yellow; width: 100px; display: inline; color:yellow"> <?php echo $totalvisit; ?> </div><div style="display: inline;"> veces. Desde el 7 de Agosto del 2025.</div>
     <?php
     }
     ?>

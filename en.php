@@ -15,7 +15,7 @@
             <?php include("./marquee/marqueeCSS.php") ?>
             </style>   
     </HEAD>
-<BODY style="background-color:navy;">
+<BODY style="background: #020024; background: linear-gradient(90deg, rgba(2, 0, 36, 1) 0%, rgba(9, 9, 121, 1) 61%, rgba(0, 212, 255, 1) 100%);">
     <font color=#66FF00>
         <center><img src=img/under_construction_icon.png width=32 height=32>Site under construction.<img src=img/under_construction_icon.png width=32 height=32></center>
         <?php include("./marquee/marqueeDisplay.php") ?>
