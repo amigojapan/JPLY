@@ -23,10 +23,10 @@
         <center>
         <?php include("visitor-counter.php") ?>
         </center>
-        <center><h1>s-found2 app store α</h1></center>
-        <center><a href=https://amjp.psy-k.org/s-found2/s-found2-en.html><img src=https://amjp.psy-k.org/s-found2/images/s-found2-icon.png width=250 height=170></a></center>
-        <center><h2>アンドロイドにアプリを乗せるのに一番簡単な方法。（今のところ英語のみ）</h2></center>
-        <BR>        
+        <center><h1>JPLY BBS, C64 SailorMuulator β</h1></center>
+        <center><a href=https://amjp.psy-k.org/JPLY_BBS/TerminalEmulator.html><img src=img/JPLYBBS-screenshot300x600.png></a></center>
+        <center><h2>C64シミュレーター+インターネットの前のBBSシミュレーター</h2></center>
+        <BR>
         <center><h1>Otherworld Frontier β</h1></center>
         <center><a href=https://amjp.psy-k.org/OtherworldFrontier/OtherworldFrontier-jp.html><img src=img/OtherworldFrontiertitlescreeScreenshot600x300.png></a></center>
         <center><h2>ファンタジーリソース管理ゲーム。</h2></center>
@@ -35,6 +35,10 @@
         <center><a href=https://amjp.psy-k.org/lingo-heroine/Play-Lingo-Heroine-HTML5-jp.html><img src=img/LingoHeroineScreenshots.jpeg></a></center>
         <center><h2>英語、スペイン語、日本語勉強出来るゲームです。</h2></center>
         <BR>
+        <center><h1>s-found2 app store α</h1></center>
+        <center><a href=https://amjp.psy-k.org/s-found2/s-found2-en.html><img src=https://amjp.psy-k.org/s-found2/images/s-found2-icon.png width=250 height=170></a></center>
+        <center><h2>アンドロイドにアプリを乗せるのに一番簡単な方法。（今のところ英語のみ）</h2></center>
+        <BR>        
         <center><h1>Tom Burger 3 β</h1></center>
         <center><a href=https://amjp.psy-k.org/tom-burger//Play-Tom-Burger-HTML5-jp.html><img src=img/TomBurgerThumbnail300x600.jpeg></a></center>
         <center><h2>レトロゲーム風、ハンバーガー屋さんシミュレーションゲーム。</h2></center>
