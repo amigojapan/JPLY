@@ -35,6 +35,10 @@
         <center><a href=https://amjp.psy-k.org/lingo-heroine/Play-Lingo-Heroine-HTML5-es.html><img src=img/LingoHeroineScreenshots.jpeg></a></center>
         <center><h2>Juego para estudiar Ingles, Japones y Español.</h2></center>
         <BR>
+        <center><h1>Aprende programacion con amigojapan α</h1></center>
+        <center><a href="https://amjp.psy-k.org/Learn-programming-form--AmigoJapan-in-LOGO/index_es.html"><img src=https://amjp.psy-k.org/JPLY/img/LOGO.png></a></center>
+        <center><h2>Curso para principiantes de programacion en LOGO y Python</h2></center>
+        <BR>        
         <center><h1>s-found2 app store α</h1></center>
         <center><a href=https://amjp.psy-k.org/s-found2/s-found2-en.html><img src=https://amjp.psy-k.org/s-found2/images/s-found2-icon.png width=250 height=170></a></center>
         <center><h2>La forma mas facil de poner juegos en Android.(por ahora solo en disponible en ingles)</h2></center>

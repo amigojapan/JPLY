@@ -35,6 +35,10 @@
         <center><a href=https://amjp.psy-k.org/lingo-heroine/Play-Lingo-Heroine-HTML5-jp.html><img src=img/LingoHeroineScreenshots.jpeg></a></center>
         <center><h2>英語、スペイン語、日本語勉強出来るゲームです。</h2></center>
         <BR>
+        <center><h1>amigojapanとプログラミングを覚えましょう！ α</h1></center>
+        <center><a href="https://amjp.psy-k.org/Learn-programming-form--AmigoJapan-in-LOGO/index_ja.html"><img src=https://amjp.psy-k.org/JPLY/img/LOGO.png></a></center>
+        <center><h2>LOGOとPythonの初心者用コース。</h2></center>
+        <BR>        
         <center><h1>s-found2 app store α</h1></center>
         <center><a href=https://amjp.psy-k.org/s-found2/s-found2-en.html><img src=https://amjp.psy-k.org/s-found2/images/s-found2-icon.png width=250 height=170></a></center>
         <center><h2>アンドロイドにアプリを乗せるのに一番簡単な方法。（今のところ英語のみ）</h2></center>
