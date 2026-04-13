@@ -24,7 +24,7 @@
         <?php include("visitor-counter.php") ?>
         </center>
         <center><h1>JPLY BBS, C64 SailorMuulator β</h1></center>
-        <center><a href=https://amjp.psy-k.org/JPLY_BBS/TerminalEmulator.html><img src=img/JPLYBBS-screenshot300x600.png></a></center>
+        <center><a href=https://bit.ly/JPLYBBS><img src=img/JPLYBBS-screenshot300x600.png></a></center>
         <center><h2>Simulador de C64+Simulador de BBS pre-internet</h2></center>
         <BR>
         <center><h1>Otherworld Frontier β</h1></center>
