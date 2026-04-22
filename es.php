@@ -50,6 +50,11 @@
         <center><h1>omocha123 β</h1></center>
         <center><a href=https://amjp.psy-k.org/omocha123/omocha123es.html><img src=img/omocha123screenshot300x600thumbnail.jpeg></a></center>
         <center><h2>Simulador de fisica en el cual puede compartir sus propias simulaciones.</h2></center>
+        <BR>
+        <center><h1>JPLY archivo de  programas en BASIC β</h1></center>
+        <center><a href=https://amjp.psy-k.org/JPLY/BASIC_PRORGAMS.HTML><img src=img/BASIC_PROGRASMS_TITLE.png height=300 width=300></a></center>
+        <center><h2>Programas en BASIC hechos en JPLY.</h2></center>
+
 
         <BR>
         <center> α(en desarollo) β(fase de pruebas)</center>
