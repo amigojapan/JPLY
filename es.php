@@ -54,9 +54,12 @@
         <center><h1>JPLY archivo de  programas en BASIC β</h1></center>
         <center><a href=https://amjp.psy-k.org/JPLY/BASIC_PRORGAMS.HTML><img src=img/BASIC_PROGRASMS_TITLE.png height=300 width=300></a></center>
         <center><h2>Programas en BASIC hechos en JPLY.</h2></center>
-
-
         <BR>
+        <center><h1>eyeareseeGUI β</h1></center>
+        <center><a href=https://github.com/amigojapan/eyeareseeGUI><img src=img/eyeareseeGUIscreenshot1.png height=300 width=300></a></center>
+        <center><h2>cliente de IRC hecho en JPLY.</h2></center>
+        <BR>
+        
         <center> α(en desarollo) β(fase de pruebas)</center>
         <BR>    
         <H2>

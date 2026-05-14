@@ -54,8 +54,12 @@
         <center><h1>JPLY BASIC prorgam archive β</h1></center>
         <center><a href=https://amjp.psy-k.org/JPLY/BASIC_PRORGAMS.HTML><img src=img/BASIC_PROGRASMS_TITLE.png height=300 width=300></a></center>
         <center><h2>Basic games made at JPLY.</h2></center>
-
         <BR>
+        <center><h1>eyeareseeGUI β</h1></center>
+        <center><a href=https://github.com/amigojapan/eyeareseeGUI><img src=img/eyeareseeGUIscreenshot1.png height=300 width=300></a></center>
+        <center><h2>IRC client made at JPLY.</h2></center>
+        <BR>
+        
         <center> α(under development) β(testing phase)</center>
         <BR>
         <H2>

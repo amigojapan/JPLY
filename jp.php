@@ -53,10 +53,13 @@
         <BR>
         <center><h1>JPLY BASICプログラームアーカーイブ β</h1></center>
         <center><a href=https://amjp.psy-k.org/JPLY/BASIC_PRORGAMS.HTML><img src=img/BASIC_PROGRASMS_TITLE.png height=300 width=300></a></center>
-        <center><h2>Basic games made at JPLY.</h2></center>
-
-
+        <center><h2>JPLYで開発されたBASICゲーム。</h2></center>
         <BR>
+        <center><h1>eyeareseeGUI β</h1></center>
+        <center><a href=https://github.com/amigojapan/eyeareseeGUI><img src=img/eyeareseeGUIscreenshot1.png height=300 width=300></a></center>
+        <center><h2>JPLYで開発されたIRCクライアント。</h2></center>
+        <BR>
+
         <center> α(開発中)　β（テスティング中）</center>
         <H2>
         <center>©Copyright <a href="http://amigojapan.github.io/" target="_blank">Usmar A. Padow(amigojapan)</a> 2024。</center>
