@@ -51,7 +51,7 @@
         <center><a href=https://amjp.psy-k.org/omocha123/omocha123.html><img src=img/omocha123screenshot300x600thumbnail.jpeg></a></center>
         <center><h2>Physics simulator which allows you to share your creations.</h2></center>
         <BR>
-        <center><h1>JPLY BASIC prorgam archive β</h1></center>
+        <center><h1>JPLY BASIC & C prorgam archive β</h1></center>
         <center><a href=https://amjp.psy-k.org/JPLY/BASIC_PRORGAMS.HTML><img src=img/BASIC_PROGRASMS_TITLE.png height=300 width=300></a></center>
         <center><h2>Basic games made at JPLY.</h2></center>
         <BR>

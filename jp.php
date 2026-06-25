@@ -51,7 +51,7 @@
         <center><a href=https://amjp.psy-k.org/omocha123/omocha123jp.html><img src=img/omocha123screenshot300x600thumbnail.jpeg></a></center>
         <center><h2>自作のステージが共有出来る物理シミュレーター。</h2></center>
         <BR>
-        <center><h1>JPLY BASICプログラームアーカーイブ β</h1></center>
+        <center><h1>JPLY BASICとCプログラームアーカーイブ β</h1></center>
         <center><a href=https://amjp.psy-k.org/JPLY/BASIC_PRORGAMS.HTML><img src=img/BASIC_PROGRASMS_TITLE.png height=300 width=300></a></center>
         <center><h2>JPLYで開発されたBASICゲーム。</h2></center>
         <BR>
