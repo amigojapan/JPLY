@@ -35,6 +35,14 @@
         <center><a href=https://amjp.psy-k.org/lingo-heroine/Play-Lingo-Heroine-HTML5.html><img src=img/LingoHeroineScreenshots.jpeg></a></center>
         <center><h2>Game for studying Spanish, Japanese and English.</h2></center>
         <BR>
+        <center><h1>rad-tui-ide β</h1></center>
+        <center><a href=https://github.com/amigojapan/rad-tui-IDE><img src=img/rad-tui-py-designmode.png height=300 width=300>></a></center>
+        <center><h2>modern VB-DOS clone.</h2></center>
+         <BR>
+        <center><h1>tsukino text editor β</h1></center>
+        <center><a href=https://github.com/amigojapan/tsukino><img src=img/tsukinoeditor.png height=300 width=300>></a></center>
+        <center><h2>modern TUI text editor.</h2></center>
+        <BR>
         <center><h1>Learn programming with amigojapan α</h1></center>
         <center><a href="https://amjp.psy-k.org/Learn-programming-form--AmigoJapan-in-LOGO/"><img src=https://amjp.psy-k.org/JPLY/img/LOGO.png></a></center>
         <center><h2>Beginners programming course in LOGO and Python</h2></center>
