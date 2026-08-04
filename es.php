@@ -36,11 +36,11 @@
         <center><h2>Juego para estudiar Ingles, Japones y Español.</h2></center>
         <BR>
         <center><h1>rad-tui-ide β</h1></center>
-        <center><a href=https://github.com/amigojapan/rad-tui-IDE/blob/main/README-es.md><img src=img/rad-tui-ideES.png height=300 width=300>></a></center>
+        <center><a href=https://github.com/amigojapan/rad-tui-IDE/blob/main/README-es.md><img src=img/rad-tui-ideES.png height=300 width=500>></a></center>
         <center><h2>VB-DOSの最新版のクローン.</h2></center>
         <BR>
         <center><h1>tsukino text editor β</h1></center>
-        <center><a href=https://github.com/amigojapan/tsukino><img src=img/tsukinoeditor.png height=300 width=300>></a></center>
+        <center><a href=https://github.com/amigojapan/tsukino><img src=img/tsukinoeditor.png height=300 width=500>></a></center>
         <center><h2>modern TUI text editor.</h2></center>
         <BR>
         <center><h1>Aprende programacion con amigojapan α</h1></center>

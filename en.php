@@ -36,11 +36,11 @@
         <center><h2>Game for studying Spanish, Japanese and English.</h2></center>
         <BR>
         <center><h1>rad-tui-ide β</h1></center>
-        <center><a href=https://github.com/amigojapan/rad-tui-IDE><img src=img/rad-tui-py-designmode.png height=300 width=300>></a></center>
+        <center><a href=https://github.com/amigojapan/rad-tui-IDE><img src=img/rad-tui-py-designmode.png height=300 width=500>></a></center>
         <center><h2>modern VB-DOS clone.</h2></center>
          <BR>
         <center><h1>tsukino text editor β</h1></center>
-        <center><a href=https://github.com/amigojapan/tsukino><img src=img/tsukinoeditor.png height=300 width=300>></a></center>
+        <center><a href=https://github.com/amigojapan/tsukino><img src=img/tsukinoeditor.png height=300 width=500>></a></center>
         <center><h2>modern TUI text editor.</h2></center>
         <BR>
         <center><h1>Learn programming with amigojapan α</h1></center>
