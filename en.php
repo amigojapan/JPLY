@@ -23,6 +23,10 @@
         <center>
         <?php include("visitor-counter.php") ?>
         </center>
+        <center><h1>3dpl version 3 β</h1></center>
+        <center><a href=https://amigojapan.github.io/3dpl/><img src=img/3dplbanner.png height=300 width=500></a></center>
+        <center><h2>Educational programming environment for programming beginners</h2></center>
+        <BR>
         <center><h1>JPLY BBS, C64 SailorMuulator β</h1></center>
         <center><a href=https://bit.ly/JPLYBBS><img src=img/JPLYBBS-screenshot300x600.png></a></center>
         <center><h2>C64 simulator+Pre-itnternet BBS simulator</h2></center>
