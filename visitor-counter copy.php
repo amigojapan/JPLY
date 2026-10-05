@@ -39,13 +39,6 @@
     $stmt = $db->query("SELECT COUNT(*) FROM pageview WHERE page='$pagename';");
     $row = $stmt->fetchArray();
     $visitors = $row ? $row[0] : 0;
-
-    // Sum the language-page counts, excluding unrelated pages in the database.
-    // A visitor who uses multiple languages counts once for each language.
-    $language_pages = "('https://amjp.psy-k.org/JPLY/en.php', 'https://amjp.psy-k.org/JPLY/jp.php', 'https://amjp.psy-k.org/JPLY/es.php')";
-    $all_visitors = $db->querySingle("SELECT COUNT(*) FROM pageview WHERE page IN $language_pages");
-    $all_clicks = $db->querySingle("SELECT COALESCE(SUM(totalvisit), 0) FROM totalview WHERE page IN $language_pages");
-
     // Close the database connection
     $db->close();
   ?>
@@ -54,27 +47,18 @@
     ?>    
         <div style="display: inline;">Visitor count:</div><div style="border: 2px solid yellow; width: 100px; display: inline; color:yellow"> <?php echo $visitors; ?> </div><div style="display: inline;">.</div>
         <div style="display: inline;">This page has been clicked</div><div style="border: 2px solid yellow; width: 100px; display: inline; color:yellow"> <?php echo $totalvisit; ?> </div><div style="display: inline;"> times. Since August 7, 2025.</div>
-        <br>
-        <div style="display: inline;">Total visitors across all languages:</div><div style="border: 2px solid yellow; width: 100px; display: inline; color:yellow"> <?php echo $all_visitors; ?> </div><div style="display: inline;">.</div>
-        <div style="display: inline;">Total clicks across all languages:</div><div style="border: 2px solid yellow; width: 100px; display: inline; color:yellow"> <?php echo $all_clicks; ?> </div><div style="display: inline;"> times. Since August 7, 2025.</div>
     <?php
     } 
     if($pagename == "https://amjp.psy-k.org/JPLY/jp.php") {
     ?>    
         <div style="display: inline;">尋ね人:</div><div style="border: 2px solid yellow; width: 100px; display: inline; color:yellow"> <?php echo $visitors; ?> </div><div style="display: inline;">人。</div>
         <div style="display: inline;">クリック数</div><div style="border: 2px solid yellow; width: 100px; display: inline; color:yellow"> <?php echo $totalvisit; ?> </div><div style="display: inline;"> 回。２０２５年８月７日から。</div>
-        <br>
-        <div style="display: inline;">全言語の訪問者数合計：</div><div style="border: 2px solid yellow; width: 100px; display: inline; color:yellow"> <?php echo $all_visitors; ?> </div><div style="display: inline;">人。</div>
-        <div style="display: inline;">全言語のクリック数合計：</div><div style="border: 2px solid yellow; width: 100px; display: inline; color:yellow"> <?php echo $all_clicks; ?> </div><div style="display: inline;">回。２０２５年８月７日から。</div>
     <?php 
     }
     if($pagename == "https://amjp.psy-k.org/JPLY/es.php") {
     ?>    
         <div style="display: inline;">Visitantes:</div><div style="border: 2px solid yellow; width: 100px; display: inline; color:yellow"> <?php echo $visitors; ?> </div><div style="display: inline;"> personas.</div>
         <div style="display: inline;">Numero de clicks:</div><div style="border: 2px solid yellow; width: 100px; display: inline; color:yellow"> <?php echo $totalvisit; ?> </div><div style="display: inline;"> veces. Desde el 7 de Agosto del 2025.</div>
-        <br>
-        <div style="display: inline;">Total de visitantes en todos los idiomas:</div><div style="border: 2px solid yellow; width: 100px; display: inline; color:yellow"> <?php echo $all_visitors; ?> </div><div style="display: inline;"> personas.</div>
-        <div style="display: inline;">Total de clics en todos los idiomas:</div><div style="border: 2px solid yellow; width: 100px; display: inline; color:yellow"> <?php echo $all_clicks; ?> </div><div style="display: inline;"> veces. Desde el 7 de agosto de 2025.</div>
     <?php
     }
     ?>
