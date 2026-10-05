@@ -31,6 +31,10 @@
         <center><a href=https://bit.ly/JPLYBBS><img src=img/JPLYBBS-screenshot300x600.png></a></center>
         <center><h2>C64シミュレーター+インターネットの前のBBSシミュレーター</h2></center>
         <BR>
+        <center><h1>Conway Creature's α</h1></center>
+        <center><a href=https://amjp.psy-k.org/ConwaysCreatures/frontendJP.html><img src=img/ConwaysCreaturesBanner.png height=300 width=500></a></center>
+        <center><h2>トレーニングカードゲーム、マルチプレイヤーコンウェイの生物ゲーム</h2></center>
+        <BR>
         <center><h1>Otherworld Frontier β</h1></center>
         <center><a href=https://amjp.psy-k.org/OtherworldFrontier/OtherworldFrontier-jp.html><img src=img/OtherworldFrontiertitlescreeScreenshot600x300.png></a></center>
         <center><h2>ファンタジーリソース管理ゲーム。</h2></center>

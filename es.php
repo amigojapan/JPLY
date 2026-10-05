@@ -31,6 +31,10 @@
         <center><a href=https://bit.ly/JPLYBBS><img src=img/JPLYBBS-screenshot300x600.png></a></center>
         <center><h2>Simulador de C64+Simulador de BBS pre-internet</h2></center>
         <BR>
+        <center><h1>Conway Creature's α</h1></center>
+        <center><a href=https://amjp.psy-k.org/ConwaysCreatures/frontendES.html><img src=img/ConwaysCreaturesBanner.png height=300 width=500></a></center>
+        <center><h2>Juego de Tarjetas de Intercambio, Juego de la Vida multijugador de Conway</h2></center>
+        <BR>
         <center><h1>Otherworld Frontier β</h1></center>
         <center><a href=https://amjp.psy-k.org/OtherworldFrontier/OtherworldFrontier-es.html><img src=img/OtherworldFrontiertitlescreeScreenshot600x300.png></a></center>
         <center><h2>Juego de fantasia de gestión de recursos.</h2></center>
